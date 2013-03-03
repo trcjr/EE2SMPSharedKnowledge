@@ -1,0 +1,6 @@
+name: EE2SMP Fix
+main: com.stupidfoot.minecraft.EE2SMPSharedKnowledge.EE2SMPSharedKnowledge
+version: 0.1
+website: https://github.com/trcjr/EE2SMPSharedKnowledge
+description: Provides shared EE2 knowledge between players in SMP.
+authors: [trcjr]
