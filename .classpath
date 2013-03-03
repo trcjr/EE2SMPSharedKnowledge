@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/t.campbell/Downloads/RetroSMP_Server/Feed The Beast Insanity Co-op/craftbukkit.jar" sourcepath="C:/Users/t.campbell/Downloads/RetroSMP_Server/Feed The Beast Insanity Co-op/craftbukkit.src.zip">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/t.campbell/Downloads/RetroSMP_Server/Feed The Beast Insanity Co-op/mods/EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip" sourcepath="C:/Users/t.campbell/Desktop/EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.src.zip">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/t.campbell/Desktop/FTB/FTBRETROSMP/minecraft/mods/EE2ClientV1.4.6.5.jar" sourcepath="C:/Users/t.campbell/Desktop/EE2ClientV1.4.6.1.src.zip">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
